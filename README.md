@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/waxodium/lollicord/refs/heads/main/lolli.theme
 ---
 
 ## Local Install
-For a flexible local customization for Vencord. Do Manual install width="317" height="498"
+For a flexible local customization for Vencord. Do Manual install
 
 1. Save [lolli.theme.css](https://raw.githubusercontent.com/waxodium/lollicord/refs/heads/main/lolli.theme.css) to your machine.
 2. Open Discord and go to **User Settings > Vencord > Themes**.
